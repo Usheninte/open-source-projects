@@ -27,7 +27,7 @@ I did this because building things is important, but sharing what is built is of
 
 This a poetry React web app built to celebrate the end of my second #100DaysOfCode cycle in 2018.  
 
-In 2019, I plan on focusing more on backend developement, and becoming a world-class Backend or Fullstack **Software Engineer**.
+In 2019, I plan on focusing more on backend developement, and becoming a world-class Backend & Fullstack **Software Engineer**.
 
 - - -
 - - -

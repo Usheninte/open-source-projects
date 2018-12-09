@@ -12,3 +12,7 @@ I broke down the process of building the React plugin [here](https://medium.free
 
 It is [available as a package](https://www.npmjs.com/package/react-fcctest) on the NPM registry.
 
+> * [**null-spotlight**](https://www.npmjs.com/package/react-fcctest)
+
+This is an open source initiative, meant to help members of the freeCodeCamp program, have an easy way to test their React app projects. It is essentially a React plugin for the freeCodeCamp Test Suite.
+

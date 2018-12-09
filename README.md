@@ -4,7 +4,7 @@ a complete list of my Open Source projects, and contributions
 
 ## My projects
 
-> * **react-fcctest**
+> * [**react-fcctest**](https://github.com/Usheninte/react-fcctest)
 
 This is an open source initiative, meant to help members of the freeCodeCamp program, have an easy way to test their React app projects. It is essentially a React plugin for the freeCodeCamp Test Suite.
 

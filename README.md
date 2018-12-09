@@ -17,7 +17,9 @@ It is [available as a package](https://www.npmjs.com/package/react-fcctest) on t
 
 > * [**null-spotlight**](https://www.npmjs.com/package/react-fcctest)
 
-This is an open source initiative, meant to help members of the freeCodeCamp program, have an easy way to test their React app projects. It is essentially a React plugin for the freeCodeCamp Test Suite.
+This is an open source React portfolio web app template. I built this for both experienced and entry-level developers to be able to quickly highlight their key projects.  
+
+I did this because building things is important, and sharing what is built is of even greater relevance.
 
 - - -
 

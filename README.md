@@ -19,7 +19,7 @@ It is [available as a package](https://www.npmjs.com/package/react-fcctest) on t
 
 This is an open source React portfolio web app template. I built this for both experienced and entry-level developers to be able to quickly highlight their key projects.  
 
-I did this because building things is important, and sharing what is built is of even greater relevance.
+I did this because building things is important, but sharing what is built is of even greater relevance.
 
 - - -
 

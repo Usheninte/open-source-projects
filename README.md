@@ -26,3 +26,10 @@ This is an open source initiative, meant to help members of the freeCodeCamp pro
 This a poetry React web app built to celebrate the end of my second #100DaysOfCode cycle in 2018.  
 
 In 2019, I plan on focusing more on backend developement, and becoming a world-class Backend or Fullstack **Software Engineer**.
+
+- - -
+- - -
+
+## Contributions
+
+> _COMING SOON_
